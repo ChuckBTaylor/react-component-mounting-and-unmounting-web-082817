@@ -2,15 +2,16 @@
 
 ## Overview
 
-We'll describe what happens in the mounting and unmounting phases of a React component's lifecycle. 
+We'll describe what happens in the mounting and unmounting phases of a React component's lifecycle.
 
 ## Objectives
 
 1. Describe the `componentWillMount` and `componentDidMount` lifecycle methods in the mounting phase
 2. Describe the `componentWillUnmount` lifecycle method in the unmounting phase
 
+//Look, I made a change
 
-## Setup and Cleanup 
+## Setup and Cleanup
 
 A React component's lifecycle contains distinct phases for creation and deletion. In coding terms, these are called **mounting** and **unmounting**. You can also think of them as "setup" and "cleanup".
 
